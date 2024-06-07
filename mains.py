@@ -43,7 +43,7 @@ while True:
             if bandera_ordenar == True:
                 crear_json(lista_ordenada,"tipos_servicio_ordenanos.json")
             else:
-                print("ERROR, PRIMERO CARGAR LA LISTA")
+                print("ERROR, PRIMERO ORDENAR LA LISTA DEL PUNTO 5")
         case 7:
             print("Saliendo del programa")
             break
